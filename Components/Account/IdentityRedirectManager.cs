@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using System.Diagnostics.CodeAnalysis;
 
-namespace api.fergl.ie.Components.Account
+namespace Ferglie.Api.Components.Account
 {
   internal sealed class IdentityRedirectManager(NavigationManager navigationManager)
   {

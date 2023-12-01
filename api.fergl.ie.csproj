@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-api.fergl.ie-b899f8de-d911-4922-9247-97db7392e48b</UserSecretsId>
     <PlatformTarget>x64</PlatformTarget>
+    <RootNamespace>Ferglie.Api</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

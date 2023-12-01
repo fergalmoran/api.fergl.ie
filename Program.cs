@@ -1,6 +1,6 @@
-using api.fergl.ie.Components;
-using api.fergl.ie.Components.Account;
-using api.fergl.ie.Data;
+using Ferglie.Api.Components;
+using Ferglie.Api.Components.Account;
+using Ferglie.Api.Data;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;

@@ -1,6 +1,6 @@
-using api.fergl.ie.Components.Account.Pages;
-using api.fergl.ie.Components.Account.Pages.Manage;
-using api.fergl.ie.Data;
+using Ferglie.Api.Components.Account.Pages;
+using Ferglie.Api.Components.Account.Pages.Manage;
+using Ferglie.Api.Data;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Http.Extensions;

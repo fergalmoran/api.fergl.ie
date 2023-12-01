@@ -1,7 +1,7 @@
-using api.fergl.ie.Data;
+using Ferglie.Api.Data;
 using Microsoft.AspNetCore.Identity;
 
-namespace api.fergl.ie.Components.Account
+namespace Ferglie.Api.Components.Account
 {
   internal sealed class IdentityUserAccessor(UserManager<ApplicationUser> userManager, IdentityRedirectManager redirectManager)
   {
